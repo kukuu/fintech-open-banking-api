@@ -40,7 +40,7 @@ The API will provide meaningful error responses, including proper HTTP status co
 Monitoring and Logging will be set up to track API usage, performance, and potential issues.
 
 
-## Implementation
+## Execution
 
 - _Technologies_: https://github.com/users/kukuu/projects/2?pane=issue&itemId=32788981
 
@@ -62,7 +62,7 @@ Monitoring and Logging will be set up to track API usage, performance, and poten
 
 - _Video execution steps:_ https://drive.google.com/file/d/1YeyVAyfDnAKs5UcxyDB0ru_D_4y3ST0j/view
   
-#### Data Encryption and Security:
+### Data Encryption and Security:
 
 All sensitive data transmitted between the third-party app and the API will be encrypted using HTTPS.
 The API will implement strong security measures to protect against common attacks. Including:
@@ -77,6 +77,6 @@ The API will implement strong security measures to protect against common attack
 - Cross Site Scripting
 - Malware and Phishing.
 
-#### Benefits
+### Benefits
 https://github.com/kukuu/open-banking-api/blob/main/benefits.md
 
