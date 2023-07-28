@@ -77,8 +77,6 @@ The API will implement strong security measures to protect against common attack
 - Cross Site Scripting
 - Malware and Phishing.
 
-### Cloud Blue Print Architecture - FE, BE, Microservice, Short and Long term Strategies
-https://miro.com/app/board/uXjVPk8w1hA=/
 
 ### Benefits
 https://github.com/kukuu/open-banking-api/blob/main/benefits.md
