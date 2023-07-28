@@ -70,6 +70,6 @@ The API will implement strong security measures to protect against common attack
 - Malware and Phishing.
 
 
-### Benefits
+### Related resources
 https://github.com/kukuu/open-banking-api/blob/main/benefits.md
 
