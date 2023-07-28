@@ -52,14 +52,6 @@ Monitoring and Logging will be set up to track API usage, performance, and poten
 
 - _Architecture_: https://enablebanking.com/docs/api/reference/#account-information-flow
 
-- _GitHub Code Repository_: https://github.com/kukuu/blockchain/tree/main/enable-banking-main
-
-- _Config_: https://github.com/kukuu/blockchain/blob/main/enable-banking-main/config.json
-
-- _Session Access Code_: https://github.com/kukuu/blockchain/blob/main/enable-banking-session-access-code.png
-
-- _Generated session code for authentication_: https://github.com/kukuu/blockchain/blob/main/deriving-session-code-to-client.png
-
 - _Video execution steps:_ https://drive.google.com/file/d/1YeyVAyfDnAKs5UcxyDB0ru_D_4y3ST0j/view
   
 ### Data Encryption and Security:
