@@ -71,5 +71,4 @@ The API will implement strong security measures to protect against common attack
 
 
 ### Related resources
-https://github.com/kukuu/open-banking-api/blob/main/benefits.md
 
