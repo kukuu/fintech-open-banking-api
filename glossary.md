@@ -66,3 +66,4 @@ In the context of Blockchain in FINTECH, several technologies are essential for 
 
 - Scalability Solutions: Technologies such as Sharding, Layer 2 solutions (e.g., Lightning Network), and Sidechains to improve the scalability of blockchain networks.
 
+    https://github.com/kukuu/blockchain/blob/main/white-paper-crypto-currency.pdf
