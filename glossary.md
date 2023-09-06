@@ -66,4 +66,27 @@ In the context of Blockchain in FINTECH, several technologies are essential for 
 
 - Scalability Solutions: Technologies such as Sharding, Layer 2 solutions (e.g., Lightning Network), and Sidechains to improve the scalability of blockchain networks.
 
-    https://github.com/kukuu/blockchain/blob/main/white-paper-crypto-currency.pdf
+    White Paper - https://github.com/Azoto-Media/business-document/blob/main/AZZOTTO/crypto-currency-white-paper/white-paper-crypto-currency.pdf
+  Implementation - https://github.com/kukuu/blockchain/tree/main/my_wallet
+
+## Major interoperability protocols for blockchain
+
+PoCoW
+
+- Polkadot: Polkadot is a multi-chain blockchain platform that allows different blockchains to connect and interact with each other. It enables cross-chain transfers of assets and data, making it possible for diverse blockchains to collaborate and share information securely.
+
+- Cosmos: Cosmos is an open-source network of interconnected blockchains that use the Inter-Blockchain Communication (IBC) protocol to facilitate seamless communication between independent blockchains. It enables interoperability by allowing tokens and data to move between different chains within the Cosmos ecosystem.
+
+- Wanchain: Wanchain is a cross-chain blockchain platform that uses the Wanchain Interoperability Protocol (WanBridge) to facilitate cross-chain transactions and asset transfers between various blockchains. It aims to create a decentralized financial infrastructure by connecting multiple blockchains together.
+
+## Major Oracles Middleware that connects the blockchain to external data sources 
+
+ChBaT
+
+These oracle middleware platforms play a critical role in bridging the gap between blockchains and external data sources, allowing smart contracts to access real-world information and interact with the outside world securely and trustlessly.
+
+- Chainlink: Chainlink is a decentralized oracle network that securely connects smart contracts on blockchains to real-world data and external APIs. It ensures data reliability and tamper-resistant data feeds, making it a popular choice for various blockchain projects.
+
+- Band Protocol: Band Protocol is a cross-chain data oracle platform that enables smart contracts to access external data from various sources. It utilizes a decentralized network of validators to aggregate and verify data, providing a secure and reliable data oracle solution.
+
+- Tellor: Tellor is a decentralized oracle network designed specifically for the DeFi (Decentralized Finance) ecosystem. It enables smart contracts to access off-chain data through a network of decentralized miners who provide data from various sources and reach consensus on the accuracy of the data.
