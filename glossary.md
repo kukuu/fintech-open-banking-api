@@ -13,7 +13,7 @@ The European Union's Revised Payment Services Directive (PSD2) regulation includ
 
 - CAST Application Intelligence Platform: CAST provides tools for application portfolio analysis, enabling organizations to assess the health and complexity of their legacy systems and identify candidates for modernization.
 
-- Software AG ARIS: ARIS is a business process analysis tool that helps map and analyze existing business processes, identifying inefficiencies and areas where modern technologies can bring improvements.
+- Software AG ARIS : ARIS is a business process analysis tool that helps map and analyze existing business processes, identifying inefficiencies and areas where modern technologies can bring improvements.
 
 - Mendix: Mendix is a low-code development platform that allows organizations to prototype and build proof-of-concept applications quickly, helping to visualize the benefits of modernization efforts.
 
