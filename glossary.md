@@ -15,7 +15,7 @@ The European Union's Revised Payment Services Directive (PSD2) regulation includ
 
 - Software AG ARIS : ARIS is a business process analysis tool that helps map and analyze existing business processes, identifying inefficiencies and areas where modern technologies can bring improvements.
 
-- Mendix: Mendix is a low-code development platform that allows organizations to prototype and build proof-of-concept applications quickly, helping to visualize the benefits of modernization efforts.
+- Mendix: Mendix is a low-code development platform that  allows organizations to prototype and build proof-of-concept applications quickly, helping to visualize the benefits of modernization efforts.
 
 - Gartner Hype Cycle: While not a specific tool, Gartner's Hype Cycle can be used to monitor technology trends and evaluate their maturity and potential for adoption in modernization projects.
 
