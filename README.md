@@ -19,7 +19,7 @@ When a user authorizes the third-party app, the app exchanges the client ID and 
 #### Authorization and Scopes:
 
 - The API will define different scopes for various data access levels (e.g., "accounts:read", "transactions:read").
-During the OAuth flow, the third-party app requests specific scopes based on the user's consent.
+During the OAuth flow, the third-party app requests specific scopes based on the user's consent. 
 
 #### Access Token and Token Expiry:
 
