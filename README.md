@@ -12,7 +12,7 @@ The API is designed using RESTful principles and utilises OAuth 2.0 for authenti
 
 #### API Endpoints and Authentication:
 
-- The API will have endpoints to retrieve account information, transaction history,  and other financial data.
+- The API will have endpoints to retrieve account information,  transaction history,  and other financial data.
 For authentication, the third-party app must first register with the bank and obtain a **client ID** and **client secret**.
 When a user authorizes the third-party app, the app exchanges the client ID and secret for an access token from the bank's OAuth server.
 
