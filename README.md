@@ -1,7 +1,7 @@
 # Open Banking  API
 
 Open Banking APIs play a vital role in transforming the financial services landscape by fostering innovation, empowering consumers, knowledge sharing and promoting healthy competition. They create a more inclusive and efficient financial competitive ecosystem that benefits individuals, businesses, and financial institutions alike.
-
+ 
 ## Scenario:
  A third-party financial app wants to access a user's account information from a bank securely. 
 
