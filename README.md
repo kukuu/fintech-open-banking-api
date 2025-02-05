@@ -7,7 +7,7 @@ Open Banking APIs play a vital role in transforming the financial services lands
 
 ## Solution Design:
 The API is designed using RESTful principles and utilises OAuth 2.0 for  authentication and authorization.  The outcome will enable secure data exchange between banks and third-party financial Apps with users permission.
-
+ 
 ### Implementation steps :
 
 #### API Endpoints and Authentication:
