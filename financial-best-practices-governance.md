@@ -6,7 +6,7 @@ By adhering to these best practices and governance frameworks, you can ensure th
 
 ## Governance Frameworks
 
-- Regulatory Compliance:
+- Regulatory Compliance: 
 
 i. GDPR (General Data Protection Regulation): Ensure data privacy and protection for EU citizens.
 
