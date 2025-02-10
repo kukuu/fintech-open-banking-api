@@ -44,7 +44,7 @@ i. Encryption: Use AES-256 for data at rest and TLS 1.3 for data in transit.
 
 ii. Authentication & Authorization: Implement OAuth 2.0, OpenID Connect, and Role-Based Access Control (RBAC).
 
-iii. Penetration Testing: Regularly test systems for vulnerabilities.
+iii. Penetration Testing: Regularly test systems for vulnerabilities. WASP ZAP.
 
 iv. Zero Trust Architecture: Assume no user or device is trusted by default.
 
