@@ -129,7 +129,7 @@ iii. ServiceNow GRC: Governance, Risk, and Compliance management.
 
 ## Solution Architecture 
 
-- ggggg
+- https://github.com/kukuu/fintech-open-banking-api/blob/main/solution-architecture-open-banking-API.md
 
 ## Implementation 
 - https://github.com/kukuu/fintech-open-banking-api/tree/main/documentation/azzotto-wallet
