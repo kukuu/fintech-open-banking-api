@@ -127,3 +127,9 @@ i. OneTrust: Manage data privacy and compliance.
 
 iii. ServiceNow GRC: Governance, Risk, and Compliance management.
 
+## Solution Architecture 
+
+- ggggg
+
+## Implementation 
+- https://github.com/kukuu/fintech-open-banking-api/tree/main/documentation/azzotto-wallet
