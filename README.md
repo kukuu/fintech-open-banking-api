@@ -56,7 +56,7 @@ ii. Load Balancing: Use tools like Nginx or AWS Elastic Load Balancer.
 
 iii. Caching: Implement Redis or Memcached for high-performance data retrieval.
 
-iv. Auto-Scaling: Use Kubernetes or AWS Auto Scaling to handle variable workloads.
+iv. Auto-Scaling: Use Kubernetes or AWS Auto Scaling to handle variable workloads. AWS Cloud Watch Service Policy.
 
 - Reliability & Resilience:
 
