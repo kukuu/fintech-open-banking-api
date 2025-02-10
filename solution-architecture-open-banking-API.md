@@ -1,0 +1,73 @@
+# Open Banking  API
+
+Open Banking APIs play a vital role in transforming the financial services landscape by fostering innovation, empowering consumers, knowledge sharing and promoting healthy competition. They create a more inclusive and efficient financial competitive ecosystem that benefits individuals, businesses, and financial institutions alike.
+ 
+## Scenario:
+ A third-party financial app wants to access a user's account information from a bank securely. 
+
+## Solution Design:
+The API is designed using RESTful principles and utilises OAuth 2.0 for  authentication and authorization.  The outcome will enable secure data exchange between banks and third-party financial Apps with users permission.
+ 
+### Implementation steps :
+
+#### API Endpoints and Authentication: 
+
+- The API will have endpoints to retrieve account information,  transaction history,  and other financial data.
+For authentication, the third-party app must first register with the bank and obtain a **client ID** and **client secret**.
+When a user authorizes the third-party app, the app exchanges the client ID and secret for an access token from the bank's OAuth server.
+
+#### Authorization and Scopes:
+
+- The API will define different scopes for various data access levels (e.g., "accounts:read", "transactions:read").
+During the OAuth flow, the third-party app requests specific scopes based on the user's consent. 
+
+#### Access Token and Token Expiry:
+
+An access token is included in the API requests' Authorization header, ensuring secure data transmission.
+Access tokens will have a limited lifespan, and the API will provide a refresh token to obtain a new access token when it expires.
+
+#### API Rate Limiting and Throttling:
+
+Rate Limiting and throttling mechanisms will be implemented to prevent abuse and ensure fair usage of the API.
+
+
+#### Error Handling and API Responses:
+
+The API will provide meaningful error responses, including proper HTTP status codes and error messages.
+
+#### Monitoring and Logging:
+
+Monitoring and Logging will be set up to track API usage, performance, and potential issues.
+
+
+## Execution
+
+- _Technologies_: https://github.com/users/kukuu/projects/2?pane=issue&itemId=32788981
+
+- _Platform_: Node
+ 
+- _Framework_: OPEN API Banking, JavaScript
+
+- _Sandbox_: https://github.com/kukuu/blockchain/blob/main/sandbox-enable-open-api-banking.png
+
+- _Architecture_: https://enablebanking.com/docs/api/reference/#account-information-flow
+
+- _Video execution steps:_ https://drive.google.com/file/d/1YeyVAyfDnAKs5UcxyDB0ru_D_4y3ST0j/view
+  
+### Data Encryption and Security:
+
+All sensitive data transmitted between the third-party app and the API will be encrypted using HTTPS.
+The API will implement strong security measures to protect against common attacks. Including:
+
+- Broken Access control
+- Cryptographic failure
+- Insecure design
+- SQL Injection Attacks
+- DOS Attack
+- DDOS Attack
+- Authentication and Authorisation failures
+- Cross Site Scripting
+- Malware and Phishing.
+
+
+
