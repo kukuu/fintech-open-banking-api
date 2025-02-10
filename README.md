@@ -109,7 +109,7 @@ ii. Blockchain: Use distributed ledger technology for immutable transaction reco
 
 - Fraud Detection:
 
-i. Machine Learning: Implement AI/ML models to detect anomalous transactions.
+i. Machine Learning: Implement AI/ML models to detect anomalous transactions. ARIMA.
 
 ii. Real-Time Monitoring: Use tools like Splunk or Datadog for real-time fraud detection.
 
