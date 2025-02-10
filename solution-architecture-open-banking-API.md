@@ -69,5 +69,7 @@ The API will implement strong security measures to protect against common attack
 - Cross Site Scripting
 - Malware and Phishing.
 
+## Finanacial Best Practices - https://github.com/kukuu/fintech-open-banking-api/blob/main/financial-best-practices-governance.md
+
 
 
