@@ -133,3 +133,7 @@ iii. ServiceNow GRC: Governance, Risk, and Compliance management.
 
 ## Implementation 
 - https://github.com/kukuu/fintech-open-banking-api/tree/main/documentation/azzotto-wallet
+
+## Change Log 
+
+- https://enablebanking.com/docs/core/latest/#0-15-1---unreleased
