@@ -4,7 +4,7 @@ Developing software for investment and financial institutions requires adherence
 
 By adhering to these best practices and governance frameworks, you can ensure the development of secure, compliant, and scalable software for investment and financial institutions. Leveraging flowcharts, service maps, and architecture diagrams will help align teams, streamline processes, and meet regulatory requirements. 
 
-## Governance Frameworks
+## Governance Frameworks 
 
 - Regulatory Compliance: 
 
